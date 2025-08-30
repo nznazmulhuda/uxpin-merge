@@ -1,9 +1,9 @@
-import DateRangePicker from "./components/DateRangePicker";
+import DateRangePickerMN from "./DateRangePicker/DateRangePicker";
 
 export default function App() {
   return (
     <div className="p-4">
-      <DateRangePicker />
+      <DateRangePickerMN />
     </div>
   );
 }
